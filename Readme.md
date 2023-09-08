@@ -1,2 +1,2 @@
 # cosmology-research
-This repository contains all of the assignments I've done during my cosmology course.
+This repository contains the report for the research I've done during my cosmology course.
